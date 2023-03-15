@@ -208,3 +208,5 @@ shallowCopy.push({genul :"new element",
  }
 //var a = verifica("Robert","numarul");
  console.log(verifica("Robert","ultimulNume"));
+
+console.log('Salut Robert! Asta e un commit nou!');
